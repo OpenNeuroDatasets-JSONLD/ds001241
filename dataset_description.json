@@ -9,11 +9,13 @@
         "Paul E. Dux"
     ],
     "Acknowledgements": "The authors thank David Lloyd for technical assistance, and Zoie Nott, Kristina Horne, and Abbey Nydam for assistance with data collection.",
-    "Funding": ["This work was supported by the Australian Research Council Special Research Initiative - Science of Learning Research Centre (SR120300015) to PED and JBM. In addition, MGH was supported by an Australian Postgraduate Award, PED by an ARC Future Fellowship (FT120100033) and JBM by an ARC Australian Laureate Fellowship (FL110100103) and the ARC Centre of Excellence for Integrative Brain Function (ARC Centre Grant CE140100007)."],
+    "Funding": [
+        "This work was supported by the Australian Research Council Special Research Initiative - Science of Learning Research Centre (SR120300015) to PED and JBM. In addition, MGH was supported by an Australian Postgraduate Award, PED by an ARC Future Fellowship (FT120100033) and JBM by an ARC Australian Laureate Fellowship (FL110100103) and the ARC Centre of Excellence for Integrative Brain Function (ARC Centre Grant CE140100007)."
+    ],
     "ReferencesAndLinks:": "Hall, M. G., Naughtin, C. K., Mattingley, J. B., & Dux, P. E., (in press). Distributed and opposing effects of incidental learning in the human brain. NeuroImage.",
     "ReferencesAndLinks": [
         "Hall, M. G., Naughtin, C. K., Mattingley, J. B., & Dux, P. E., (in press). Distributed and opposing effects of incidental learning in the human brain. NeuroImage."
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001241.v1.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds001241.v1.0.1",
     "License": "CC0"
 }
